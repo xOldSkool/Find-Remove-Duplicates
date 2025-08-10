@@ -1,4 +1,3 @@
-# find_duplicates.py
 import os
 import re
 import sys
